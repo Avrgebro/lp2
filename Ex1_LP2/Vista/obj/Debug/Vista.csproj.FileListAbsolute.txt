@@ -1,0 +1,16 @@
+C:\temp\Ex1_LP2\Vista\bin\Debug\Vista.exe.config
+C:\temp\Ex1_LP2\Vista\bin\Debug\Vista.exe
+C:\temp\Ex1_LP2\Vista\bin\Debug\Vista.pdb
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.principal.resources
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.exe
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.pdb
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.frmGestionAlumno.resources
+C:\temp\Ex1_LP2\Vista\bin\Debug\AccesoDatos.dll
+C:\temp\Ex1_LP2\Vista\bin\Debug\Modelo.dll
+C:\temp\Ex1_LP2\Vista\bin\Debug\AccesoDatos.pdb
+C:\temp\Ex1_LP2\Vista\bin\Debug\Modelo.pdb
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.frmBusqCurso.resources
+C:\temp\Ex1_LP2\Vista\obj\Debug\Vista.frmBusquedaAlumno.resources

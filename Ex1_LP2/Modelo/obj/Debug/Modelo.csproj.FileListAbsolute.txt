@@ -1,0 +1,5 @@
+C:\temp\Ex1_LP2\Modelo\bin\Debug\Modelo.dll
+C:\temp\Ex1_LP2\Modelo\bin\Debug\Modelo.pdb
+C:\temp\Ex1_LP2\Modelo\obj\Debug\Modelo.dll
+C:\temp\Ex1_LP2\Modelo\obj\Debug\Modelo.pdb
+C:\temp\Ex1_LP2\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

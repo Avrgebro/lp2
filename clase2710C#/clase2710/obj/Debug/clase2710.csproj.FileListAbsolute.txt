@@ -1,0 +1,15 @@
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\clase2710.exe.config
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\clase2710.exe
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\clase2710.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Data.dll
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Web.dll
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Data.xml
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\bin\Debug\MySql.Web.xml
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\obj\Debug\clase2710.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\obj\Debug\clase2710.exe
+c:\users\freddy\documents\visual studio 2017\Projects\clase2710\clase2710\obj\Debug\clase2710.pdb
