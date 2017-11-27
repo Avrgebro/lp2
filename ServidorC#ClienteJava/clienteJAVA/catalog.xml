@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:54122/empleadoWS.asmx?WSDL" uri="xml-resources/web-service-references/empleadoWS/wsdl/localhost_54122/empleadoWS.asmx.wsdl"/>
+</catalog>

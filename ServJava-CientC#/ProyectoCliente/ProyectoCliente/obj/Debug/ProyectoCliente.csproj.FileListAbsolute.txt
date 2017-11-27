@@ -1,0 +1,12 @@
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\ProyectoCliente.exe.config
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\ProyectoCliente.exe
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\ProyectoCliente.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\Controlador.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\Controlador.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\bin\Debug\Controlador.dll.config
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.Form1.resources
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.Properties.Resources.resources
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.csproj.GenerateResource.Cache
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.exe
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\ProyectoCliente\obj\Debug\ProyectoCliente.pdb

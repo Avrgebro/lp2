@@ -1,0 +1,15 @@
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\ProyectoServidor.dll.config
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\ProyectoServidor.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\ProyectoServidor.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Data.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Data.Entity.EF6.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySQL.Data.EntityFrameworkCore.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Web.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Data.xml
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Data.Entity.EF6.xml
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySQL.Data.EntityFrameworkCore.xml
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\bin\MySql.Web.xml
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\obj\Debug\ProyectoServidor.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\obj\Debug\ProyectoServidor.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoServidor\ProyectoServidor\obj\Debug\ProyectoServidor.pdb

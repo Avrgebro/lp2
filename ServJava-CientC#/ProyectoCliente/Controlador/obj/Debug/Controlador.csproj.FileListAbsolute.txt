@@ -1,0 +1,6 @@
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\bin\Debug\Controlador.dll.config
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\bin\Debug\Controlador.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\bin\Debug\Controlador.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\obj\Debug\Controlador.dll
+c:\users\freddy\documents\visual studio 2017\Projects\ProyectoCliente\Controlador\obj\Debug\Controlador.pdb
